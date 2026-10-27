@@ -1,6 +1,6 @@
 /* EDIT THIS FILE to customize your portfolio. No frameworks or build tools required. */
 window.PORTFOLIO = {
-  name: "Your Name",
+  name: "Abir Islam Mishad",
   initials: "YN",
   headline: "Software Developer • Embedded Systems • Problem Solver",
   eyebrow: "OPEN TO INTERNSHIPS & FULL-TIME OPPORTUNITIES",
